@@ -1,0 +1,17 @@
+x = int
+y = int
+input("input nilai a: ")
+input("input nilai b: ")
+
+a = int(x + y)
+b = int(x - y)
+c = int(x * y)
+d = int(x / y)
+print("hasil penjumlahan")
+print(a)
+print("hasil pengurangan")
+print(b)
+print("hasil perkalian")
+print(c)
+print("hasil pembagian")
+print(d)
